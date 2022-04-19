@@ -1,0 +1,11 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "Sprint 1. Model creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/jest/bin/jest"
+  },
+  "author": "JonathanJRodriguez",
+  "license": "ISC"
+}
