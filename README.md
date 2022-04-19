@@ -1,5 +1,7 @@
 # Sprint 1: Agregar modelos
 
+Por motivos didácticos se duplicaron los archivos en cada Requerimiento. En un caso real, debería quedar todo en un único set de archivos User y User.test
+
 Después de evaluar tiempo y esfuerzos, el equipo de Launch X ha decidido crear la aplicación `Twitter`. Para ello han definido la primera etapa del sprint con los siguientes requerimientos a desarrollar:
 
 SPRINT 1: Creación de un modelo
