@@ -3,7 +3,7 @@ setters: `setUsername` y `setBio`, para actualizar dichas propiedades.
 Solución: Agrega los setters usando la palabra `set` y modificando el 
 atributo indicado.*/
 
-const User = require("./../../app/models/User3");
+const User = require("./../../app/models/User4");
 
 describe("Unit Tests for User class", () => {
   test("Create an User object", () => {
